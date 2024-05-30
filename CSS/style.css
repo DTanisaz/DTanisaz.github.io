@@ -1,12 +1,12 @@
-    .square{
-        list-style-type: square;
-    }
-    h1{
-      text-align: center;
-    }
-    li{
-      text-align: center;
-    }
-    p{
-      text-align: center;
+.square {
+    list-style-type: square;
+}
+h1 {
+    text-align: center;
+}
+li {
+    text-align: center;
+}
+p {
+    text-align: center;
     }

@@ -4,8 +4,9 @@
 h1 {
     text-align: center;
 }
-ul {
+ul.square-list {
     text-align: center;
+    list-style-type: square;
 }
 p {
     text-align: center;
